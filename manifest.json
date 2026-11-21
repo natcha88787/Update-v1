@@ -1,0 +1,9 @@
+{
+  "version": "1.0.1",
+  "url": "patch_1.0.1.pck",
+  "sha256": "07178319851094e16c628308c5957a47b525520dc06211407d7fa8e344f8293b",
+  "size": 10803728,
+  "notes": "Phase 10.1 test update: banner on the menu, update log entry, update-before-menu flow.",
+  "force": false,
+  "min_base": "1.0.0"
+}
